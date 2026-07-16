@@ -4,15 +4,6 @@ An interactive Excel dashboard analyzing 1,200+ customer complaint records for a
 
 📌 Built during my Data Analyst Internship at **Blue Kwet Consulting**.
 
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](./dashboard_screenshot.png)
-<!-- Replace the above with your actual screenshot filename once uploaded to the repo -->
-
----
-
 ## 🎯 Objective
 
 Banks handle a high volume of customer complaints across multiple channels, and resolution delays directly impact customer trust. This dashboard was built to answer:
