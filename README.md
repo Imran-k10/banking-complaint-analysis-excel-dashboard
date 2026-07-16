@@ -42,7 +42,7 @@ Banks handle a high volume of customer complaints across multiple channels, and 
 
 | File | Description |
 |------|--------------|
-| `Banking_EXCEL_pro.xlsx` | Full workbook — raw data, PivotTables, and dashboard |
+| `Banking_Complaint_Analysis_Dashboard.xlsx` | Full workbook — raw data, PivotTables, and dashboard |
 | `README.md` | Project overview and summary of insights |
 
 ## 👤 About Me
